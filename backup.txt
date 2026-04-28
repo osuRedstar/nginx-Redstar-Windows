@@ -1,0 +1,7 @@
+[backup]
+AODD/
+conf/nginx.conf
+html/
+logs/
+osu/
+backup.txt
