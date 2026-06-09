@@ -19,3 +19,4 @@
 *.nanokvm.ch (251209) ~ (260220) dynadot.com domainabuse@nic.ch 할당취소
 *.youtu11.be (251209) dynadot.com
 *.tunnels.cfd (260418) dynadot.com
+*.debian.moe (200403) namecheap.com --Acquired (260608)--> dynadot.com (인수)
